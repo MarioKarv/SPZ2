@@ -1,0 +1,3 @@
+/home/marian/СПЗ/lab2/CMakeFiles/untitled.dir
+/home/marian/СПЗ/lab2/CMakeFiles/edit_cache.dir
+/home/marian/СПЗ/lab2/CMakeFiles/rebuild_cache.dir
